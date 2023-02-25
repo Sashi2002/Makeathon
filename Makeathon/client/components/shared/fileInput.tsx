@@ -43,10 +43,12 @@ const FileInput = () => {
         />
       </label>
       <p className="text-xl flex flex-col items-center pt-10 md:mt-32 mt-6">
-        <div>Made By :</div> <div>Sarthak Sachdeva</div>
-        <div>Mehul Kumar</div>
+        <div>Made By :</div>
+        <div>Ayush Garg</div>
+        <div>Harsh Aswani</div>
         <div>Saransh Sinha</div>
-        <div>Aryan Tanay</div>
+        <div>Sarthak Sachdeva</div>
+        <div>Sashikanta Mohanty</div>
       </p>
     </div>
   );
